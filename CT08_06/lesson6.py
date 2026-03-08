@@ -36,6 +36,7 @@ def find_highest_scorer(quiz_scores):
 def display_results(quiz_scores):
     for name, score in quiz_scores:
         print(f"name", "score")
+display_results(quiz_scores)
 
 
     
