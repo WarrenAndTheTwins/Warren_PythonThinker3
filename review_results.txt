@@ -1,0 +1,5 @@
+total num characters: 558
+ good reviews: 11
+ bad reviews: 9
+ percentage good: 55.0%
+ general review: mixed
