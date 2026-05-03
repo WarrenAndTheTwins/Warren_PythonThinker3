@@ -65,7 +65,7 @@
 - **Arguments**: 
   - **input_filename (str)**: The name of the input file.
   - **output_filename (str)**: The name of the output file.
-  - **key (int)**: The encryption/decryption key.
+  - **key (int)**: The encryption/decrypti/on key.
   - **mode (str)**: "encrypt" or "decrypt".
 
 - **Return Value**:
